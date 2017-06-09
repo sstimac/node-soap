@@ -20,7 +20,8 @@
     "strip-bom": "~0.3.1",
     "uuid": "^3.0.1",
     "xml-crypto": "~0.8.0",
-    "assert": "1.4.1"
+    "assert": "1.4.1",
+    "url": "0.11.0"
   },
   "repository": {
     "type": "git",
