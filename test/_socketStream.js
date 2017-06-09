@@ -1,6 +1,6 @@
 'use strict';
 
-var fs = require('fs'),
+var fs = require('fs-extra'),
   duplexer = require('duplexer'),
   semver = require('semver'),
   should = require('should'),

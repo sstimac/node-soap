@@ -1,6 +1,6 @@
 'use strict';
 
-var fs = require('fs'),
+var fs = require('fs-extra'),
   join = require('path').join;
 
 describe('WSSecurity', function() {

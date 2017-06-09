@@ -1,7 +1,7 @@
 'use strict';
 
 var assert = require('assert');
-var fs   = require('fs');
+var fs   = require('fs-extra');
 var glob   = require('glob');
 var http = require('http');
 var path = require('path');
